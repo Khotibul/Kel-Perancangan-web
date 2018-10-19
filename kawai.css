@@ -1,0 +1,18 @@
+body {
+	background-image: url("kw.jpg");
+}
+h1 {
+	color: red;
+}
+
+label {
+	color: orange;
+}
+table, th, td {
+	width: 700px;
+	height: 30px;
+	text-align: center;
+	color: white;
+    border: 1px solid black;
+    border-color: white;
+}
